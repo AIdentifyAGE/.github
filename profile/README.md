@@ -1,6 +1,6 @@
 # Welcome to AIdentifyAGE -- Artificial Intelligence and its Application by Forensic Science Service Providers: Migrant Unidentified Age Estimation :wave:
 
-## What is Project AIdentifyAGE?
+## What is the Project AIdentifyAGE?
 
 The knowledge and the proof of age are indispensable and invaluable for all
 human beings. The forensic age estimation (FAE) has played an increasingly
@@ -19,4 +19,25 @@ technology in a new field: DAA imaging on 2D data from panoramic radiographs.
 AIdentifyAGE project received funding from Fundação para a Ciência e a Tecnologia (FCT),
 under grant [2024.07444.IACDC](https://doi.org/10.54499/2024.07444.IACDC).
 
+## Team
+
+- Cristiana Pereira (PI)
+- Alexandre Francisco
+- Ana Margarida Rodrigues
+- Andreas Schmeling
+- António Figueiras
+- Arlindo Oliveira
+- Cátia Vaz
+- Diana Augusto
+- Francisco Salvado e Silva
+- Henrique Oliveira
+- Hrvoje Brkic
+- José Rui Figueira
+- Miguel Amaral
+- Mohamed Elbawab
+- Paulo Guerra
+- Renato Marcelo
+- Rui Cardoso
+- Rui Santos
+- Valon Nushi
 
