@@ -21,7 +21,7 @@ under grant [2024.07444.IACDC](https://doi.org/10.54499/2024.07444.IACDC).
 
 ## Team
 
-- Cristiana Pereira (PI)
+- Cristiana Palmela Pereira (PI)
 - Alexandre Francisco
 - Ana Margarida Rodrigues
 - Andreas Schmeling
