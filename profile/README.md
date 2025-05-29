@@ -19,6 +19,8 @@ technology in a new field: DAA imaging on 2D data from panoramic radiographs.
 AIdentifyAGE project received funding from Fundação para a Ciência e a Tecnologia (FCT),
 under grant [2024.07444.IACDC](https://doi.org/10.54499/2024.07444.IACDC).
 
+![PRR logos](https://raw.githubusercontent.com/AIdentifyAGE/.github/refs/heads/main/profile/LogosPRR.png "")
+
 ## Team
 
 - Cristiana Palmela Pereira (PI)
