@@ -16,8 +16,14 @@ methodology to fill this gap is of great scientific importance and practical
 application. This study is to show emerging applications of deep learning
 technology in a new field: DAA imaging on 2D data from panoramic radiographs.
 
-AIdentifyAGE project received funding from Fundação para a Ciência e a Tecnologia (FCT),
-under grant [2024.07444.IACDC](https://doi.org/10.54499/2024.07444.IACDC).
+AIdentifyAGE project is financed under grant [2024.07444.IACDC](https://doi.org/10.54499/2024.07444.IACDC),
+within the scope of the investment “RE-C05-i08 - More Digital Science”, measure
+“RE-C05-i08.M04 - "Support a program of R&D projects for development and
+implementation of advanced cybersecurity, artificial intelligence and data
+science systems in public administration, as well as a scientific capacitation
+program”, within the scope of the agreement between the Recover Portugal
+Mission Structure and the Fundação para a Ciência e a Tecnologia I.P. (FCT), as
+an intermediary beneficiary.
 
 ![PRR logos](https://raw.githubusercontent.com/AIdentifyAGE/.github/refs/heads/main/profile/LogosPRR.png "")
 
